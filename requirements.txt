@@ -1,5 +1,10 @@
 opencv-python
-scipy
+scipy==1.10.1
 matplotlib
 numpy
 jupyter
+nltk
+gensim
+fasttext-wheel
+tqdm
+scikit-learn
