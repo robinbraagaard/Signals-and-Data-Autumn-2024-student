@@ -1,0 +1,14 @@
+# CNN module
+- Dataloader part
+  - CIFAR10
+  - Mnist
+- .gitignore file
+- lightning implementation
+- regular implementation
+- descriptions
+- Show covolutions in the beginning before tuning
+- Show convolutions after, after training the network
+- argparse
+- training on HPC
+- Short git tutorial
+- forward hooks (also to get dimensionality of stuff layers and such)
