@@ -8,3 +8,8 @@ gensim
 fasttext-wheel
 tqdm
 scikit-learn
+mne
+pandas
+torch
+torchvision
+torchsummary
